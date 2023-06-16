@@ -10,3 +10,7 @@ To install your plugin use
 
 ## Result
 ![Screenshot](./result.png)
+
+## Code examples
+[Official guide](https://builder.readthedocs.io/en/latest/plugins/index.html)  
+[Prebuild plugins](https://gitlab.gnome.org/GNOME/gnome-builder/-/tree/main/src/plugins)
