@@ -1,0 +1,8 @@
+[Plugin]
+Authors=PaladinDev
+Copyright=Copyright © 2023 PaladinDev
+Description=Example plugin in Vala
+Loader=C
+Module=@MODULE@
+Name=Example Vala
+X-Builder-ABI=@BUILDER_ABI@
